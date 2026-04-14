@@ -53,7 +53,7 @@ const DEFAULT_PLAYERS = [
   },
   {
     "name": "CancamoRVP",
-    "rank": 22,
+    "rank": 20,
     "matches": 130,
     "wins": 69,
     "losses": 61,
