@@ -125,7 +125,7 @@ const DEFAULT_PLAYERS = [
   },
   {
     "name": "Salarcona",
-    "rank": 13,
+    "rank": 14,
     "matches": 111,
     "wins": 58,
     "losses": 53,
